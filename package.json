@@ -1,0 +1,19 @@
+{
+  "name": "black-tie",
+  "version": "1.0.0",
+  "description": "Black-tie scss",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WIPAPP/black-tie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WIPAPP/black-tie/issues"
+  },
+  "homepage": "https://github.com/WIPAPP/black-tie#readme"
+}
